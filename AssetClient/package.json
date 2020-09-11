@@ -16,7 +16,7 @@
     "express-handlebars": "^3.0.2",
     "localStorage": "^1.0.4",
     "mongoose": "^5.4.19",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "request": "^2.88.0",
     "sawtooth-sdk": "^1.0.5",
     "sjcl": "^1.0.8"
